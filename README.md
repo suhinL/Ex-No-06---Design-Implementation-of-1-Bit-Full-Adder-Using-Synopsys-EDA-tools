@@ -7,7 +7,7 @@ The aim is to design and implement a 1-bit Full Adder using Synopsys EDA tool an
 
 ### Synopsys EDA Suite
 - Synopsys Custom Compiler – For CMOS schematic design.
-- Synopsys PrimeWave Design Environment – For simulation setup and waveform analysis. 
+- Synopsys PrimeWave Design Environment – For simulation setup and waveform analysis.
 - Synopsys PrimeSim HSPICE / PrimeSim – For circuit simulation and analysis.
 
 ### Process Design Kit (PDK)
@@ -67,4 +67,4 @@ The aim is to design and implement a 1-bit Full Adder using Synopsys EDA tool an
 ## Results
 1. Successfully designed the **1-bit Full Adder** schematic using **Synopsys EDA tools**.
 2. Performed **transient analysis**, verifying the correct operation of the **Full Adder**.
-3. Observed **correct logic switching behavior** in response to input signals.
+3. Observed **correct logic switching behavior** in response to input signals
